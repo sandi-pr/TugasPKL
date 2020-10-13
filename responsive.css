@@ -1,0 +1,162 @@
+@media (max-width: 1200px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .headline h1 {
+    font-size: 3em;
+    line-height: 1.2em;
+  }
+  .header-left .logo {
+    margin-left: 15px;
+  }
+  .header-right {
+    margin-right: 15px;
+  }
+  .judul-konten {
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  .lis-anime {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .lis-anime .anime {
+    margin: 0 auto;
+    width: 45%;
+    margin-bottom: 25px;
+  }
+  .anime .tayang {
+    padding-top: 20px;
+  }
+  .anime .genre {
+    padding-bottom: 18px;
+  }
+  .info-anime {
+    width: 100%;
+    height: 190px;
+    margin-bottom: 20px;
+  }
+  .container{
+    width: 100%;
+  }
+  .info-season p {
+    font-size: 15px;
+    margin: 10px 0;
+  }
+  .info-season h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+  footer {
+    height: 170px;
+  }
+  footer .ket h2 {
+    padding-left: 0px;
+    padding-bottom: 10px;
+  }
+  footer .anggota li {
+    margin-right: 20px;
+    padding-bottom: 10px;
+  }
+  .footer-logo h2 {
+    margin: 43.16px 0;
+  }
+  .anggota {
+    margin-top: 14px;
+  }
+}
+
+@media (max-width: 700px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .headline {
+    height: 80px;
+  }
+  .headline h1 {
+    display: none;
+  }
+  .headline p {
+    display: none;
+  }
+  .logo {
+    height: 10px;
+    margin-left: 15px;
+  }
+  .header-right {
+    margin-right: 15px;
+  }
+  .judul-konten {
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  .judul-konten h2 {
+    margin-top: -120px;
+    font-size: 18px;
+  }
+  .isi-konten {
+    margin-top: -100px;
+  }
+  .lis-anime {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .lis-anime .anime {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .anime .tayang {
+    padding-top: 20px;
+  }
+  .anime .genre {
+    padding-bottom: 18px;
+  }
+  .info-anime {
+    width: 100%;
+    height: 180px;
+    margin-bottom: 20px;
+  }
+  .container{
+    width: 100%;
+  }
+  .info-season p {
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  .info-season h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  footer {
+    height: 172px;
+    padding-right: 0;
+    padding-left: 25px;
+  }
+  footer .footer-logo h2 {
+    line-height: 140px;
+    font-size: 34px;
+  }
+  .footer-logo h2 {
+    height: 160px;
+    margin: 0;
+  }
+  .anggota {
+    margin-top: 20px;
+    float: right;
+  }
+  .ket h2 {
+    font-size: 20px;
+  }
+  .ket ul {
+    font-size: 14px;
+  }
+}

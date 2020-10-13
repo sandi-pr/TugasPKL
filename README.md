@@ -1,4 +1,4 @@
 # TugasPKL
 
-github.com/RestuMuhamad/ProyekTimG03.git
+github.com/RestuMuhamad/ProyekTimG03
 itu adalah proyek tim saya di Progate.

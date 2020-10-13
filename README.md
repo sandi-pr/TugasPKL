@@ -1,4 +1,4 @@
 # TugasPKL
 
-https://github.com/sandi-pr/AniKu
+github.com/RestuMuhamad/ProyekTimG03
 itu adalah proyek tim saya di Progate.
